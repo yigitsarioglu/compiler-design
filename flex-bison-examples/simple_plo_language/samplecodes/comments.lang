@@ -1,0 +1,7 @@
+VAR x, y;
+/* denemelerim 5 */
+BEGIN
+
+int arr[3] := 5;
+    
+END.

@@ -1,0 +1,23 @@
+VAR x, y, z, squ, i, sum;
+PROCEDURE square;
+BEGIN
+   squ:= x * x
+   z := read( y ) 
+   return squ;
+END;
+
+
+BEGIN
+   writeline( x );
+   x := 1;
+   WHILE x <= 10 DO
+   BEGIN
+      CALL square;
+      ! squ;
+      x := x + 1;
+      x := x % 2 ;
+      return square;    
+END;
+
+END.
+

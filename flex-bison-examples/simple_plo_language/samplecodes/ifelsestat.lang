@@ -1,0 +1,11 @@
+VAR x, y;
+
+BEGIN
+
+IF x < y THEN
+    writeline(x);
+ELSE
+    writeline(y);
+    read(x);
+    
+END.

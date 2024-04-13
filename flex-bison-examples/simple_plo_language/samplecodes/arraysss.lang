@@ -1,0 +1,7 @@
+VAR x, y;
+
+BEGIN
+
+int arr[3] := 5;
+    
+END.

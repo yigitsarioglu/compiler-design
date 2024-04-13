@@ -1,0 +1,10 @@
+VAR i, x, sum;
+
+BEGIN
+
+FOR i := 1 TO 5 DO { 
+x := x + 1
+}
+
+END.
+

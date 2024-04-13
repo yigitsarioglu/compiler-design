@@ -1,0 +1,12 @@
+VAR i, x, sum;
+
+function deneme ( char inek ) {
+	
+FOR i := 1 TO 5 DO { 
+	x := x + 1 
+
+}
+
+}
+.
+
