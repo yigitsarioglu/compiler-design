@@ -17,7 +17,7 @@ or manually on Linux, follow this steps:
 
 You could give the input file as:
 
-    $ ./parser > basiccode.lang
+    $ ./parser < basiccode.lang
 
 
 ## Grammar Rules
